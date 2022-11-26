@@ -1,0 +1,14 @@
+.footer {
+    /* position: fixed; */
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 45px;
+}
+
+.footer a {
+    margin-right: 30px;
+    color: #a3a4a6;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}

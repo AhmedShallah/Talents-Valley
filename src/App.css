@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    font-family: Segoe UI;
+}
+
+body {
+    background-color: #f3f4f6;
+}
+
+input,
+select:focus {
+    outline: none;
+}
+
+.react-tel-input .form-control {
+    width: 500px !important;
+    height: 60px !important;
+    padding-left: 80px !important;
+    font-size: 18px !important;
+}
+
+.react-tel-input .selected-flag {
+    width: 60px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #fff;
+}
+
+.react-tel-input .selected-flag .flag {
+    margin-right: 10px;
+    transform: scale(1.5);
+}
+
+.react-tel-input .selected-flag .arrow {
+    display: none;
+}

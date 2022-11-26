@@ -1,0 +1,25 @@
+.pass .i {
+    position: absolute;
+    top: 54px;
+    left: 455px;
+    font-size: 26px;
+    color: #000;
+    cursor: pointer;
+}
+
+.warn a {
+    font: normal normal normal 16px/21px Segoe UI;
+    color: #707070;
+    text-decoration: none;
+}
+
+.warn .a {
+    font-size: 28px;
+}
+
+.nav {
+    color: #4375ff;
+    text-decoration: none;
+}
+
+

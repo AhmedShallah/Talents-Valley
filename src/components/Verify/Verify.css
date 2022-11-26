@@ -1,0 +1,135 @@
+/* .main h1 {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.verify {
+    width: 703px;
+    height: 821px;
+    margin: 0px auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 20px;
+}
+
+.verify .text h4 {
+    font: normal normal normal 25px/33px Segoe UI;
+    letter-spacing: 0px;
+    color: #151617;
+    padding: 56px 114px;
+    margin-bottom: 0px;
+}
+
+.verify .row {
+    margin-top: 0px;
+    display: grid;
+    gap: 16px;
+}
+
+.verify .choice {
+    margin: 0px 100px 0px 122px;
+    font: normal normal normal 12px/16px Segoe UI;
+    letter-spacing: 0px;
+    color: #151617;
+}
+
+.verify .row .v-email,
+.verify .row .v-phone,
+.verify .row .v-id,
+.verify .row .v-addres {
+    padding: 0;
+    background: #f3f4f6 0% 0% no-repeat padding-box;
+    border: 1px solid #e2e2e2;
+    border-radius: 7px;
+    width: 476px;
+    height: 88px;
+    margin-left: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.verify .row .v-email .btn,
+.verify .row .v-phone .btn,
+.verify .row .v-id .btn,
+.verify .row .v-addres .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.verify .row .v-email .btn button,
+.verify .row .v-phone .btn button,
+.verify .row .v-id .btn button,
+.verify .row .v-addres .btn button {
+    width: 114px;
+    height: 31px;
+    background: #4375ff 0% 0% no-repeat padding-box;
+    border: 1px solid #e2e2e2;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.verify .row .v-email .btn button,
+.verify .row .v-phone .btn button,
+.verify .row .v-id .btn button,
+.verify .row .v-addres .btn button:focus {
+    outline: none;
+}
+
+.verify .row .v-email .btn button a,
+.verify .row .v-phone .btn button a,
+.verify .row .v-id .btn button a,
+.verify .row .v-addres .btn button a {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.verify .row .v-email .box,
+.verify .row .v-phone .box,
+.verify .row .v-id .box,
+.verify .row .v-addres .box {
+    margin-top: 20px;
+    margin-left: 24px;
+}
+
+.verify .row .v-email .box h5,
+.verify .row .v-phone .box h5,
+.verify .row .v-id .box h5,
+.verify .row .v-addres .box h5 {
+    margin-bottom: 5px;
+    font: normal normal normal 18px/24px Segoe UI;
+    letter-spacing: 0px;
+    color: #151617;
+    margin-top: 0;
+}
+
+.verify .row .v-email .box p,
+.verify .row .v-phone .box p,
+.verify .row .v-id .box p,
+.verify .row .v-addres .box p {
+    margin-top: 0;
+    font: normal normal normal 14px/19px Segoe UI;
+    letter-spacing: 0px;
+}
+
+.verify .row .v-email .box p span,
+.verify .row .v-phone .box p span,
+.verify .row .v-id .box p span,
+.verify .row .v-addres .box p span {
+    color: #e80707;
+}
+
+.verify .continue {
+    margin-left: 118px;
+    width: 478px;
+    height: 60px;
+    background-color: #4375ff;
+    margin-top: 60px;
+    color: #fff;
+    border: none;
+    font-size: 25px;
+    border-radius: 7px;
+    cursor: pointer;
+} */

@@ -1,0 +1,42 @@
+input[type="date"]::-webkit-calendar-picker-indicator {
+    width: 18px;
+    height: 18px;
+    padding-left: 22px;
+}
+
+.arrow2 {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.arrow3 {
+    position: absolute;
+    right: 54px;
+    top: 50px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.arrow4 {
+    position: absolute;
+    left: 505px;
+    top: 18px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.arrow5 {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.links {
+    color: #707070;
+    text-decoration: none;
+    position: relative;
+}

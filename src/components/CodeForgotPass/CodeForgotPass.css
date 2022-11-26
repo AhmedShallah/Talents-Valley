@@ -1,0 +1,106 @@
+/* .code-forgot {
+    width: 703px;
+    height: 918px;
+    margin: 109px auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 20px;
+    position: relative;
+}
+
+.back {
+    position: absolute;
+    left: 99px;
+    top: 89px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.code-forgot .img {
+    text-align: center;
+}
+
+.code-forgot .img img {
+    width: 123px;
+    height: 93px;
+    margin-top: 16px;
+    margin-bottom: -60px;
+}
+
+.code-forgot .img h2 {
+    font: normal normal 600 30px/40px Segoe UI;
+    letter-spacing: 1.5px;
+    color: #000000;
+    text-transform: capitalize;
+    margin-bottom: 64px;
+}
+
+.code-forgot .text,
+.code-forgot .btn {
+    margin-left: 101px;
+}
+
+.code-forgot .text h3 {
+    margin-top: 0;
+    font: normal normal 600 25px/33px Segoe UI;
+    letter-spacing: 0.5px;
+    color: #000000;
+    text-transform: capitalize;
+    margin-bottom: 32px;
+} */
+
+/* .code-forgot form .main-input {
+    display: flex;
+    margin: 0 131px 196px 131px;
+} */
+
+/* .code-forgot form .main-input :nth-child(3) {
+    margin-right: 41px;
+} */
+
+.main-input {
+    margin-left: 23px;
+}
+
+.main-input input[type="text"] {
+    width: 60px !important;
+    height: 60px !important;
+    text-align: center !important;
+    margin-right: 10px !important;
+    box-shadow: 0px 2px 2px #00000029 !important;
+    border: 1px solid #d4d4d4 !important ;
+    border-radius: 5px !important;
+    font-size: 18px !important;
+}
+
+/* .code-forgot .text p {
+    font: normal normal normal 25px/33px Segoe UI;
+    letter-spacing: 0px;
+    color: #707070;
+    margin-bottom: 48px;
+}
+
+.code-forgot .btn button {
+    width: 500px;
+    height: 60px;
+    background: #4375ff 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 60px;
+}
+
+.code-forgot .btn p {
+    margin-top: 0;
+    margin-left: 130px;
+    color: #000;
+    font: normal normal normal 20px/27px Segoe UI;
+}
+
+.code-forgot .btn p span {
+    text-decoration: none;
+    color: #4375ff;
+    cursor: pointer;
+} */
